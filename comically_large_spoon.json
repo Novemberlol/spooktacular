@@ -1,0 +1,25 @@
+{
+  "name": "Comically Large Spoon",
+  "stats": {
+    "hp": 21313136713,
+    "ac": 23123123,
+    "speed": 46345
+  },
+  "abilities": {
+    "strength": 50000,
+    "dexterity": 0,
+    "constitution": 45,
+    "intelligence": 1,
+    "wisdom": 2,
+    "charisma": 80
+  },
+  "attack": {
+    "name": "Scoop",
+    "damage": 100
+  },
+  "special": {
+      "name": "Comedic Relief",
+      "description": "Makes everyone laugh",
+      "effect": "Raises attack and defense by 50% for the next 7 turns can be stacked"
+  }
+}
