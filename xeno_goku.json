@@ -1,0 +1,25 @@
+{
+  "name": "Xeno Goku
+  "stats": {
+    "hp": 99999999999999999999999999999999999999999999,
+    "ac": 99999999999999999999999999999999999999999999,
+    "speed": 99999999999999999999999999999999999999999,
+  },
+  "abilities": {
+    "strength": 99999999999999999999999999999999999999,
+    "dexterity": 9999999999999999999999999999999999999,
+    "constitution": 9999999999999999999999999999999999,
+    "intelligence": 9999999999999999999999999999999999,
+    "wisdom": 9999999999999999999999999999999999999999,
+    "charisma": 999999999999999999999999999999999999999
+  },
+  "attack": {
+    "name": "Kamehameha",
+    "damage": 9999999999999999999999999999999999999999
+  },
+  "special": {
+      "name": "Soloing fiction",
+      "description": "Goku decides to go above the 2D plane and solo the enrity of fiction",
+      "effect": "Insta kills everything and everyone"
+  }
+}
