@@ -1,0 +1,25 @@
+{
+  "name": "DepressedMonkey Cicle",
+  "stats": {
+    "hp": 420,
+    "ac": 0,
+    "speed": 99999999999999999999999999999,
+  },
+  "abilities": {
+    "strength": 0,
+    "dexterity": 99999999999999,
+    "constitution": 2,
+    "intelligence": 10,
+    "wisdom": 14,
+    "charisma": 3
+  },
+  "attack": {
+    "name": "El Mono",
+    "damage": 421234
+  },
+  "special": {
+      "name": "Monkey Spin",
+      "description": "6 monkeys gather in a circle and talk about depressing things ",
+      "effect": "Decreases mood"
+  }
+}
