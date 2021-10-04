@@ -1,0 +1,30 @@
+{
+  "name": "Discord Kitten",
+  "stats": {
+    "hp": 50,
+    "ac": 0,
+    "speed": 35
+  },
+  "abilities": {
+    "strength": -13,
+    "dexterity": 75,
+    "constitution": 2,
+    "intelligence": 100,
+    "wisdom": 1,
+    "charisma": 3
+  },
+  "attack": {
+    "name": "Discord Mod:Assist",
+    "damage": 350
+  },
+  "special": {
+      "name": "Can you buy me Nitro uwu~",
+      "description": "Manipulation",
+      "effect": "Creates an AOE area around themselves dealing 1000 damage if character affected is catagory: 'Discord Simp/Mod' this attack will instead instally kill them"
+  },
+  "special2": {
+    "name": "Makeup",
+    "description": "Identity Changing",
+    "effect": "Raises stats by 25% for 3 turns"
+  }
+}
